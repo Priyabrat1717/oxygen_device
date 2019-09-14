@@ -1,0 +1,3 @@
+obj-$(CONFIG_TOUCHSCREEN_GT9XX)		+= gt9xx/
+obj-$(CONFIG_TOUCHSCREEN_GT9XX_HQ)	+= gt9xx_hq/
+obj-$(CONFIG_TOUCHSCREEN_GT9XX_YL)	+= gt9xx_yl/
